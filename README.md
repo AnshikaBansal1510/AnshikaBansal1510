@@ -43,14 +43,14 @@ for seamless user interactions.
 
 ### 👨‍💻 Work Experience
 
-**Hash Define**
-*Senior Council*
+**Hash Define** |
+*Senior Council* |
 *Sep 2024 - Present*
 * Organised 5+ technical events for over 100 attendees.
 * Mentored **5+ junior students** , helping them improve problem-solving skills through weekly discussions.
 
-**Mentor Minds**
-*October 2024-Present*
+**Mentor Minds** |
+*October 2024-Present* |
 * Initiated and led a peer-learning initiative, mentoring 200+ students in balancing academics with coding through structured guidance and accountability.
 * Led a team of 5+ mentors, coordinating mentorship strategies to effectively guide 150+ active mentees.
 
