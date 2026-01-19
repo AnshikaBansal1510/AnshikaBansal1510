@@ -9,7 +9,7 @@ I am a 3rd-year IT undergrad at BPIT(GGSIPU), with a strong technical background
 | Platform | Rank/Rating | Global Standing |
 | :--- | :--- | :--- |
 | **CodeChef** | **2 Star** (Peak: 1446) | Country Rank: 35681 |
-| **LeetCode** |  (Peak: 1831) | Top 7.59% Globally |
+| **LeetCode** |  (Peak Rating: 1831) | Top 7.59% Globally |
 | **Codeforces** | **Newbie** (Peak: 1173) | Best Contest Rank: 3626 |
 
 **Key Highlights:**
@@ -58,4 +58,3 @@ for seamless user interactions.
 
 
 ### 📫 Connect: [LinkedIn](https://www.linkedin.com/in/anshikabansal01/), [Mail](mailto:anshikabansal1618@gmail.com)
--->
