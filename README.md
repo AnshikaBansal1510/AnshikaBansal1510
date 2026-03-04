@@ -14,7 +14,7 @@ I am a 3rd-year IT undergrad at BPIT(GGSIPU), with a strong technical background
 
 **Key Highlights:**
 * 🥇 **CGPA: 9.64** (Top 2% of batch).
-* 🎉 Solved **1000+** DSA problems on Leetcode, Codeforces, GFG etc.
+* 🎉 Solved **1100+** DSA problems on Leetcode, Codeforces, GFG etc.
   
 ---
 
@@ -30,11 +30,11 @@ I am a 3rd-year IT undergrad at BPIT(GGSIPU), with a strong technical background
 
 ### 🚀 Featured Projects
 
-**MindMoose:** [Repo](https://github.com/AnshikaBansal1510/MindMoose)
+**MindMoose:** [Repo](https://github.com/AnshikaBansal1510/MindMoose) | [Demo Link](https://mind-moose.vercel.app/)
 * Developed an AI powered Mental Wellness platform with a centralized dashboard featuring community blogs, mood tracking, journaling, and habit-streak management to promote emotional well-being.
 * Integrated the **Gemini API** for AI-driven responses and implemented an **AI mental wellness companion** using the **Groq SDK** to enable secure, real-time conversational support.
 
-**Yappify:** [Repo](https://github.com/AnshikaBansal1510/yappify-project)
+**Yappify:** [Repo](https://github.com/AnshikaBansal1510/yappify-project) | [Demo Link](https://yappify-t3ql.onrender.com/)
 * Engineered a MERN-based social learning platform integrating Stream SDK for real-time video
 conferencing and chat, while utilizing TanStack Query to optimize state management and data synchronization
 for seamless user interactions.
