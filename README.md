@@ -56,9 +56,6 @@ for seamless user interactions.
 
 ---
 
-
-### 📫 Connect: [LinkedIn](https://www.linkedin.com/in/anshikabansal01/), [Mail](mailto:anshikabansal1618@gmail.com)
-
 ### 🔗 Connect with Me
 
 <p align="center">
