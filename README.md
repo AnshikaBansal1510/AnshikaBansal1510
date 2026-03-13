@@ -8,7 +8,7 @@ I am a 3rd-year IT undergrad at BPIT(GGSIPU), with a strong technical background
 
 | Platform | Rank/Rating | Global Standing |
 | :--- | :--- | :--- |
-| **CodeChef** | **2 Star** (Peak: 1467) | Best Contest Rank: 499 |
+| **CodeChef** | **2 Star** (Peak: 1500) | Best Contest Rank: 499 |
 | **LeetCode** |  **Knight** (Peak: 1858) | Top 5.64% Globally |
 | **Codeforces** | **Newbie** (Peak: 1173) | Best Contest Rank: 3626 |
 
