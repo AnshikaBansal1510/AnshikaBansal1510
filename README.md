@@ -52,9 +52,9 @@ for seamless user interactions.
 **Mentor Minds** |
 *October 2024-Present* 
 * Initiated and led a peer-learning initiative, mentoring 200+ students in balancing academics with coding through structured guidance and accountability.
-* Led a team of 5+ mentors, coordinating mentorship strategies to effectively guide 150+ active mentees. -->
+* Led a team of 5+ mentors, coordinating mentorship strategies to effectively guide 150+ active mentees. 
 
----
+--- -->
 
 ### 🔗 Connect with Me
 
