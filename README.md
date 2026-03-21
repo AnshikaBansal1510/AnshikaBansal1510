@@ -4,17 +4,17 @@ I am a 3rd-year IT undergrad at BPIT(GGSIPU), with a strong technical background
 
 ---
 
-### 🏆 Achievements
+<!--### 🏆 Achievements
 
 | Platform | Rank/Rating | Global Standing |
 | :--- | :--- | :--- |
 | **CodeChef** | **2 Star** (Peak: 1500) | Best Contest Rank: 499 |
-| **LeetCode** |  **Knight** (Peak: 1858) | Top 5.64% Globally |
-| **Codeforces** | **Newbie** (Peak: 1173) | Best Contest Rank: 3626 |
+| **LeetCode** |  **Knight** (Peak: 1858) | Top 5.64% Globally | 
+| **Codeforces** | **Newbie** (Peak: 1173) | Best Contest Rank: 3626 | -->
 
 **Key Highlights:**
 * 🥇 **CGPA: 9.64** (Top 2% of batch).
-* 🎉 Solved **1100+** DSA problems on Leetcode, Codeforces, GFG etc.
+<!-- * 🎉 Solved **1100+** DSA problems on Leetcode, Codeforces, GFG etc. -->
   
 ---
 
@@ -30,11 +30,11 @@ I am a 3rd-year IT undergrad at BPIT(GGSIPU), with a strong technical background
 
 ### 🚀 Featured Projects
 
-**MindMoose:** [Repo](https://github.com/AnshikaBansal1510/MindMoose) | [Demo Link](https://mind-moose.vercel.app/)
+**MindMoose:** [Repo](https://github.com/AnshikaBansal1510/MindMoose) <!-- | [Demo Link](https://mind-moose.vercel.app/) -->
 * Developed an AI powered Mental Wellness platform with a centralized dashboard featuring community blogs, mood tracking, journaling, and habit-streak management to promote emotional well-being.
 * Integrated the **Gemini API** for AI-driven responses and implemented an **AI mental wellness companion** using the **Groq SDK** to enable secure, real-time conversational support.
 
-**Yappify:** [Repo](https://github.com/AnshikaBansal1510/yappify-project) | [Demo Link](https://yappify-t3ql.onrender.com/)
+**Yappify:** [Repo](https://github.com/AnshikaBansal1510/yappify-project) <!-- | [Demo Link](https://yappify-t3ql.onrender.com/) -->
 * Engineered a MERN-based social learning platform integrating Stream SDK for real-time video
 conferencing and chat, while utilizing TanStack Query to optimize state management and data synchronization
 for seamless user interactions.
@@ -59,7 +59,7 @@ for seamless user interactions.
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://anshika-me.vercel.app/"><img src="https://img.shields.io/badge/Anshika.me-blueviolet?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+ <!-- <a href="https://anshika-me.vercel.app/"><img src="https://img.shields.io/badge/Anshika.me-blueviolet?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
   <a href="mailto:anshikabansal1618@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/anshikabansal01/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/AnshikaBansal1510"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
