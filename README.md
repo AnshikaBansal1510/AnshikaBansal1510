@@ -12,7 +12,7 @@ I am a 3rd-year IT undergrad at BPIT(GGSIPU), with a strong technical background
 | **LeetCode** |  **Knight** (Peak: 1858) | Top 5.64% Globally | 
 | **Codeforces** | **Newbie** (Peak: 1173) | Best Contest Rank: 3626 | -->
 
-**Key Highlights:**
+<!--**Key Highlights:**
 * 🥇 **CGPA: 9.64** (Top 2% of batch).
 <!-- * 🎉 Solved **1100+** DSA problems on Leetcode, Codeforces, GFG etc. -->
   
