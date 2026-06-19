@@ -67,7 +67,7 @@ for seamless user interactions.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4C1D95,30:6D28D9,60:7C3AED,100:2563EB&text=Anshika%20Bansal&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Problem%20Solver&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4C1D95,30:6D28D9,60:7C3AED,100:2563EB&text=Anshika%20Bansal&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Aspiring%20Software%20Engineer%20%7C%20GenAI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&lines=Software+Engineering+%7C+AI%2FML+%7C+Full+Stack+Development;Building+Scalable+Products+and+Intelligent+Systems;1200%2B+DSA+Problems+Solved;LeetCode+Knight+%7C+Codeforces+Pupil;Open+Source+Contributor+and+Engineering+Leader" />
 
@@ -80,11 +80,11 @@ for seamless user interactions.
 
 ![Location](https://img.shields.io/badge/Location-New%20Delhi%2C%20India-2563EB?style=for-the-badge)
 
-<a href="https://your-portfolio-link.com">
+<a href="https://anshika-me.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/anshikabansal01">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -92,17 +92,17 @@ for seamless user interactions.
 <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/your-github-username">
+<a href="https://github.com/AnshikaBansal1510">
 <img src="https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=6D28D9)
+![](https://komarev.com/ghpvc/?username=AnshikaBansal1510&style=for-the-badge&color=6D28D9)
 
-![](https://img.shields.io/github/followers/your-github-username?style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/followers/AnshikaBansal1510?style=for-the-badge&color=7C3AED)
 
-![](https://img.shields.io/github/stars/your-github-username?affiliations=OWNER&style=for-the-badge&color=4338CA)
+![](https://img.shields.io/github/stars/AnshikaBansal1510?affiliations=OWNER&style=for-the-badge&color=4338CA)
 
 </div>
 
