@@ -1,10 +1,10 @@
-<!-- # Hi there, I'm Anshika Bansal! 👋
+# Hi there, I'm Anshika Bansal! 👋
 
 I am a 3rd-year IT undergrad at BPIT(GGSIPU), with a strong technical background in data structures, algorithms, software engineering (MERN Stack) and competitive programming. Here is my resume-style GitHub readme:
 
 ---
 
-<!--### 🏆 Achievements
+### 🏆 Achievements
 
 | Platform | Rank/Rating | Global Standing |
 | :--- | :--- | :--- |
@@ -12,11 +12,11 @@ I am a 3rd-year IT undergrad at BPIT(GGSIPU), with a strong technical background
 | **LeetCode** |  **Knight** (Peak: 1858) | Top 5.64% Globally | 
 | **Codeforces** | **Newbie** (Peak: 1173) | Best Contest Rank: 3626 | -->
 
-<!--**Key Highlights:**
+**Key Highlights:**
 * 🥇 **CGPA: 9.64** (Top 2% of batch).
-<!-- * 🎉 Solved **1100+** DSA problems on Leetcode, Codeforces, GFG etc. -->
+* * 🎉 Solved **1100+** DSA problems on Leetcode, Codeforces, GFG etc. -->
   
-<!---
+
 
 ### 🛠️ Skills
 * **Core Skills:** Data Structures, Algorithms
@@ -28,7 +28,7 @@ I am a 3rd-year IT undergrad at BPIT(GGSIPU), with a strong technical background
 
 ---
 
-<!-- ### 🚀 Featured Projects
+### 🚀 Featured Projects
 
 **MindMoose:** [Repo](https://github.com/AnshikaBansal1510/MindMoose) <!-- | [Demo Link](https://mind-moose.vercel.app/) 
 * Developed an AI powered Mental Wellness platform with a centralized dashboard featuring community blogs, mood tracking, journaling, and habit-streak management to promote emotional well-being.
@@ -56,16 +56,16 @@ for seamless user interactions.
 
 --- -->
 
-<!-- ### 🔗 Connect with Me
+### 🔗 Connect with Me
 
 <p align="center">
- <!-- <a href="https://anshika-me.vercel.app/"><img src="https://img.shields.io/badge/Anshika.me-blueviolet?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
-  <!-- <a href="mailto:anshikabansal1618@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://anshika-me.vercel.app/"><img src="https://img.shields.io/badge/Anshika.me-blueviolet?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
+   <a href="mailto:anshikabansal1618@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/anshikabansal01/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/AnshikaBansal1510"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p> -->
+</p> 
 
-<div align="center">
+<!-- <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4C1D95,30:6D28D9,60:7C3AED,100:2563EB&text=Anshika%20Bansal&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Aspiring%20Software%20Engineer%20%7C%20GenAI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60"/>
 
@@ -464,7 +464,7 @@ Open To:
 
 ---
 
-<div align="center">
+<div align="center"> -->
 
 *"Engineering intelligent systems, building scalable products, and creating impact through technology."*
 
