@@ -1,4 +1,4 @@
-# Hi there, I'm Anshika Bansal! 👋
+<!-- # Hi there, I'm Anshika Bansal! 👋
 
 I am a 3rd-year IT undergrad at BPIT(GGSIPU), with a strong technical background in data structures, algorithms, software engineering (MERN Stack) and competitive programming. Here is my resume-style GitHub readme:
 
@@ -12,13 +12,13 @@ I am a 3rd-year IT undergrad at BPIT(GGSIPU), with a strong technical background
 | **LeetCode** |  **Knight** (Peak: 1858) | Top 5.64% Globally | 
 | **Codeforces** | **Newbie** (Peak: 1173) | Best Contest Rank: 3626 | -->
 
-**Key Highlights:**
+<!-- **Key Highlights:**
 * 🥇 **CGPA: 9.64** (Top 2% of batch).
 * * 🎉 Solved **1100+** DSA problems on Leetcode, Codeforces, GFG etc. -->
   
 
 
-### 🛠️ Skills
+<!-- ### 🛠️ Skills
 * **Core Skills:** Data Structures, Algorithms
 * **Programming:** C/C++, Java, Python, JavaScript
 * **Web Development:** React, Node.js, Express.js
@@ -56,14 +56,14 @@ for seamless user interactions.
 
 --- -->
 
-### 🔗 Connect with Me
+<!-- ### 🔗 Connect with Me
 
 <p align="center">
   <a href="https://anshika-me.vercel.app/"><img src="https://img.shields.io/badge/Anshika.me-blueviolet?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
-   <a href="mailto:anshikabansal1618@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- <a href="mailto:anshikabansal1618@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/anshikabansal01/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/AnshikaBansal1510"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p> 
+</p> -->
 
 <!-- <div align="center">
 
@@ -466,10 +466,180 @@ Open To:
 
 <div align="center"> -->
 
-*"Engineering intelligent systems, building scalable products, and creating impact through technology."*
+<!-- *"Engineering intelligent systems, building scalable products, and creating impact through technology."*
 
 <br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:4C1D95,30:6D28D9,60:7C3AED,100:2563EB"/>
 
+</div> -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004d00,100:39ff14&height=180&section=header&text=Anshika%20Bansal&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff1493&height=180&section=header&text=Anshika%20Bansal&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 </div>
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer;Problem+Solver;Competitive+Programmer;GenAI+Enthusiast;Building+Scalable+Solutions)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnshikaBansal1510&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/AnshikaBansal1510?style=for-the-badge&color=blue&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/AnshikaBansal1510?style=for-the-badge&color=yellow&label=Total+Stars" alt="Stars"/>
+</div>
+
+---
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+### About Me:
+
+*What I Build*  
+**What I Build**  
+Full-stack web applications and AI-driven platforms. Specializing in the MERN stack and integrating intelligent ML models using Scikit-Learn, LightGBM, and Langchain into user-centric products.
+
+*Technical Expertise*  
+- *Frontend Development*: React.js, TailwindCSS, HTML, CSS for creating responsive and dynamic UIs.
+- *Backend Development*: Node.js, Express.js architecture, RESTful API design, and JWT Authentication.
+- *Competitive Programming*: Strong grasp of Data Structures and Algorithms with over 1200+ problems solved across major platforms.
+**Technical Expertise**  
+- **Frontend Development**: React.js, TailwindCSS, HTML, CSS for creating responsive and dynamic UIs.
+- **Backend Development**: Node.js, Express.js architecture, RESTful API design, and JWT Authentication.
+- **AI/ML & Data**: Predictive modeling, feature engineering using Python, Pandas, NumPy, Scikit-learn, and HuggingFace APIs.
+- **Competitive Programming**: Strong grasp of Data Structures and Algorithms with over 1200+ problems solved across major platforms.
+
+*Open to Collaborate On*  
+**Open to Collaborate On**  
+Innovative web applications, AI/ML integrations, Hackathons, open-source development, and projects emphasizing scalability and performance.
+
+*Currently Advancing In*  
+**Currently Advancing In**  
+Generative AI implementations, LangChain, and advanced backend optimization techniques.
+
+*Technical Discussions*  
+**Technical Discussions**  
+Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Agentic workflows, and Web Development best practices.
+
+*Engineering Philosophy*  
+**Engineering Philosophy**  
+Analyze data deeply, optimize creatively, design responsively, and never stop competing and learning in the coding community.
+
+*Reach Me*: anshikabansal1618@gmail.com
+**Reach Me**: anshikabansal1618@gmail.com
+
+<br clear="both">
+
+---
+
+## Connect With Me:
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshikabansal01/)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnshikaBansal1510)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AnshikaBansal1510/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/anshika_bansal2430)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/anshika_2430)
+
+</div>
+
+
+## Tech Stack:
+
+<div align="center">
+
+### Languages
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Frontend Development
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & APIs
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+### DevOps & Tools
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
+</div>
+
+---
+
+## Engineering Expertise & Technical Focus
+
+<div align="center">
+
+### Development Architecture
+
+mermaid
+```mermaid
+graph LR
+    A[MERN Stack] -->|React/Tailwind| B[Frontend]
+    A -->|Node.js/Express| C[Backend Services]
+    D[AI/ML Integration] -->|Scikit-Learn/Pandas| E[Data Processing]
+    D -->|HuggingFace/Langchain| F[Generative AI]
+    C --> G[MongoDB / Postgres]
+    E --> G
+    F --> C
+
+```
+
+</div>
+
+### Technical Problem Solving
+
+<div align="center">
+
+| *Data Structures* | *Algorithms* | *GenAI* | *Backend* |
+| **Data Structures** | **Algorithms** | **GenAI** | **Backend** |
+|:---:|:---:|:---:|:---:|
+| Trees, Graphs, Heaps | Dynamic Programming | Feature Engineering | RESTful APIs |
+| Hash Tables, Tries | Graph Algorithms | Model Evaluation | Token Authentication |
+| Linked Lists, Stacks | Sorting & Searching | Database Design |
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+[![Anshika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnshikaBansal1510&theme=tokyo-night&hide_border=true&area=true)](https://github.com/AnshikaBansal1510)
+
+</div>
+
+---
+
+<div align="center">
+
+### "Strive for progress, not perfection."
+
+[![](https://visitcount.itsvg.in/api?id=AnshikaBansal1510&icon=6&color=6)](https://visitcount.itsvg.in)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004d00,100:39ff14&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff1493&height=100&section=footer" width="100%"/>
