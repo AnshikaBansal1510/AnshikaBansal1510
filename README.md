@@ -498,7 +498,7 @@ Open To:
 ### About Me:
 
 **What I Build**  
-Full-stack web applications and AI-driven platforms. Specializing in the MERN stack and integrating intelligent ML models using Scikit-Learn, LightGBM, and Langchain into user-centric products.
+Full-stack web applications and AI-driven platforms. Specializing in the MERN stack and integrating AI to drive user-centric solutions.
 
 **Technical Expertise**  
 - **Frontend Development**: React.js, TailwindCSS, HTML, CSS for creating responsive and dynamic UIs.
