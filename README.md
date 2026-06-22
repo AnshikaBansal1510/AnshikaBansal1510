@@ -496,12 +496,12 @@ Open To:
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ### About Me:
-> Engineering undergraduate with a strong technical background in data structures, algorithms, software engineering (MERN Stack) and competitive programming.
-> Solved 1200+ DSA problems on LeetCode, CodeForces, GeeksForGeeks, etc.
-> Achieved Knight status on LeetCode, attaining a peak rating of 1858 and ranking in the top 5.8% globally.
-> Attained Pupil rank on CodeForces with a peak rating of 1327, demonstrating strong problem-solving skills.
-> Achieved 3-Star on CodeChef with a peak rating of 1606 and a best global contest rank of 499.
-> Secured Rank 1 in college and Rank 2 in GGSIPU based on CGPA, highlighting consistent academic excellence.
+- Engineering undergraduate with a strong technical background in data structures, algorithms, software engineering (MERN Stack) and competitive programming.
+- Solved 1200+ DSA problems on LeetCode, CodeForces, GeeksForGeeks, etc.
+- Achieved Knight status on LeetCode, attaining a peak rating of 1858 and ranking in the top 5.8% globally.
+- Attained Pupil rank on CodeForces with a peak rating of 1327, demonstrating strong problem-solving skills.
+- Achieved 3-Star on CodeChef with a peak rating of 1606 and a best global contest rank of 499.
+- Secured Rank 1 in college and Rank 2 in GGSIPU based on CGPA, highlighting consistent academic excellence.
 
 
 **Reach Me**: anshikabansal1618@gmail.com
