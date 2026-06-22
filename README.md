@@ -496,27 +496,13 @@ Open To:
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ### About Me:
+> Engineering undergraduate with a strong technical background in data structures, algorithms, software engineering (MERN Stack) and competitive programming.
+> Solved 1200+ DSA problems on LeetCode, CodeForces, GeeksForGeeks, etc.
+> Achieved Knight status on LeetCode, attaining a peak rating of 1858 and ranking in the top 5.8% globally.
+> Attained Pupil rank on CodeForces with a peak rating of 1327, demonstrating strong problem-solving skills.
+> Achieved 3-Star on CodeChef with a peak rating of 1606 and a best global contest rank of 499.
+> Secured Rank 1 in college and Rank 2 in GGSIPU based on CGPA, highlighting consistent academic excellence.
 
-**What I Build**  
-Full-stack web applications and AI-driven platforms. Specializing in the MERN stack and integrating AI to drive user-centric solutions.
-
-**Technical Expertise**  
-- **Frontend Development**: React.js, TailwindCSS, HTML, CSS for creating responsive and dynamic UIs.
-- **Backend Development**: Node.js, Express.js architecture, RESTful API design, and JWT Authentication.
-- **AI/ML & Data**: Predictive modeling, feature engineering using Python, Pandas, NumPy, Scikit-learn, and HuggingFace APIs.
-- **Competitive Programming**: Strong grasp of Data Structures and Algorithms with over 1200+ problems solved across major platforms.
-
-**Open to Collaborate On**  
-Innovative web applications, Hackathons, open-source development, and projects emphasizing scalability and performance.
-
-**Currently Advancing In**  
-Generative AI implementations, LangChain, and advanced backend optimization techniques.
-
-**Technical Discussions**  
-Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Agentic workflows, and Web Development best practices.
-
-**Engineering Philosophy**  
-Analyze data deeply, optimize creatively, design responsively, and never stop competing and learning in the coding community.
 
 **Reach Me**: anshikabansal1618@gmail.com
 
@@ -545,6 +531,7 @@ Analyze data deeply, optimize creatively, design responsively, and never stop co
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Frontend Development
@@ -563,6 +550,8 @@ Analyze data deeply, optimize creatively, design responsively, and never stop co
 ### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ### DevOps & Tools
@@ -577,22 +566,16 @@ Analyze data deeply, optimize creatively, design responsively, and never stop co
 
 ---
 
-## Engineering Expertise & Technical Focus
+### 🚀 Featured Projects
 
-<div align="center">
+**MindMoose:** [Repo](https://github.com/AnshikaBansal1510/MindMoose) | [Demo Link](https://mind-moose.vercel.app/) 
+* Developed an AI powered Mental Wellness platform with a centralized dashboard featuring community blogs, mood tracking, journaling, and habit-streak management to promote emotional well-being.
+* Integrated the **Gemini API** for AI-driven responses and implemented an **AI mental wellness companion** using the **Groq SDK** to enable secure, real-time conversational support.
 
-### Technical Problem Solving
-
-<div align="center">
-
-| *Data Structures* | *Algorithms* | *GenAI* | *Backend* |
-| **Data Structures** | **Algorithms** | **GenAI** | **Backend** |
-|:---:|:---:|:---:|:---:|
-| Trees, Graphs, Heaps | Dynamic Programming | Feature Engineering | RESTful APIs |
-| Hash Tables, Tries | Graph Algorithms | Model Evaluation | Token Authentication |
-| Linked Lists, Stacks | Sorting & Searching | Database Design |
-
-</div>
+**Yappify:** [Repo](https://github.com/AnshikaBansal1510/yappify-project) | [Demo Link](https://yappify-t3ql.onrender.com/) 
+* Engineered a MERN-based social learning platform integrating Stream SDK for real-time video
+conferencing and chat, while utilizing TanStack Query to optimize state management and data synchronization
+for seamless user interactions.
 
 ---
 
