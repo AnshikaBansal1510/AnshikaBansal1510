@@ -497,7 +497,7 @@ Open To:
 
 ### About Me:
 - Engineering undergraduate with a strong technical background in data structures, algorithms, software engineering (MERN Stack) and competitive programming.
-- Solved 1200+ DSA problems across coding platforms.
+- Solved 1300+ DSA problems across coding platforms.
 - Knight @LeetCode (Max Rating: 1858)
 - Pupil @CodeForces (Max Rating: 1327)
 - 3 Star @CodeChef (Max Rating: 1606) 
